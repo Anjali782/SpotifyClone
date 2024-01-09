@@ -1,2 +1,3 @@
 # Spotifyclone
-![My Image](Spotifyy.png)
+
+![Uploading Spotifyy.png…]()
