@@ -1,3 +1,2 @@
 # Spotifyclone
-
 ![Uploading Spotifyy.png…]()
